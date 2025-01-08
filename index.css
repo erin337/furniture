@@ -1,0 +1,23 @@
+* {
+  margin: 5px;
+  padding: 1px;
+  background-color: yellow;
+}
+
+h1 {
+  color: rgb(3, 3, 54);
+}
+.product {
+  color: rgb(53, 5, 53);
+  background-color: teal;
+}
+.cost {
+  color: rgb(105, 7, 7);
+}
+.add {
+  background-color: rgb(167, 3, 3);
+}
+.description {
+  color: darkblue;
+  background-color: rgb(147, 216, 236);
+}
